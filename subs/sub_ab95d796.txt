@@ -1,4 +1,5 @@
-vless://69821c4f-4b78-4e38-944b-534c8a301179@45.33.114.17:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B8%F0%9F%87%ACSingapur%F0%9F%94%852.11%20GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozM3F4MXM2WXB1U1k1TXpvc3B2MldR@89.169.2.43:17#%F0%9F%87%B7%F0%9F%87%BARussia%20gaming%F0%9F%8E%AE%20shadow
+vless://69821c4f-4b78-4e38-944b-534c8a301179@45.33.114.17:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B8%F0%9F%87%ACSingapur%F0%9F%94%85990.5%20MB
 vless://69821c4f-4b78-4e38-944b-534c8a301179@89.169.2.43:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B7%F0%9F%87%BARUSSIYA%20GAMING%20PUBG%F0%9F%8F%81
 vless://69821c4f-4b78-4e38-944b-534c8a301179@104.245.37.164:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%A8%F0%9F%87%A6Canada%F0%9F%94%86
 vless://69821c4f-4b78-4e38-944b-534c8a301179@45.33.27.34:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B3%F0%9F%87%B1Netherland%20%202025-04-29%C3%A7enli
