@@ -1,4 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZQzg0YkdQYU5QYjBmQTNsTFloSjl3@89.169.2.43:17#%F0%9F%87%B7%F0%9F%87%BARussia%20gaming%F0%9F%8E%AE%20shadow
 vless://7ed34ba1-a3cf-4c7a-831b-8c3a03e64f27@45.33.114.17:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B8%F0%9F%87%ACSingapur%F0%9F%94%851.67%20GB
 vless://7ed34ba1-a3cf-4c7a-831b-8c3a03e64f27@89.169.2.43:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B7%F0%9F%87%BARUSSIYA%20GAMING%20PUBG%F0%9F%8F%81
 vless://7ed34ba1-a3cf-4c7a-831b-8c3a03e64f27@104.245.37.164:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%A8%F0%9F%87%A6Canada%F0%9F%94%86
