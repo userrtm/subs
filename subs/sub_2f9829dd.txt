@@ -1,4 +1,4 @@
-vless://df539d3d-9d98-4dcb-afb0-482916d5364a@45.33.114.17:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B8%F0%9F%87%ACSingapur%F0%9F%94%851007.51%20MB
+vless://df539d3d-9d98-4dcb-afb0-482916d5364a@45.33.114.17:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B8%F0%9F%87%ACSingapur%F0%9F%94%8549.45%20MB
 vless://df539d3d-9d98-4dcb-afb0-482916d5364a@89.169.2.43:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B7%F0%9F%87%BARUSSIYA%20GAMING%20PUBG%F0%9F%8F%81
 vless://df539d3d-9d98-4dcb-afb0-482916d5364a@104.245.37.164:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%A8%F0%9F%87%A6Canada%F0%9F%94%86
 vless://df539d3d-9d98-4dcb-afb0-482916d5364a@45.33.27.34:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B3%F0%9F%87%B1Netherland%20%202025-05-16%C3%A7enli
