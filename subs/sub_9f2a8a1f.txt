@@ -1,10 +1,10 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVDY4MEhwc3lFRWI5TUdXVzFESFZR@213.171.12.61:24#%F0%9F%87%B7%F0%9F%87%BARussia%20gaming%F0%9F%8E%AE%20shadow
-vless://f4fea8bb-d0dd-45c3-b685-24152bc2ebe9@23.239.28.154:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B8%F0%9F%87%ACSingapur%F0%9F%94%851.09%20MB
+vless://f4fea8bb-d0dd-45c3-b685-24152bc2ebe9@23.239.28.154:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B8%F0%9F%87%ACSingapur%F0%9F%94%8517.87%20MB
 vless://f4fea8bb-d0dd-45c3-b685-24152bc2ebe9@213.171.7.251:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B7%F0%9F%87%BARUSSIYA%20GAMING%20PUBG%F0%9F%8F%81
-vless://f4fea8bb-d0dd-45c3-b685-24152bc2ebe9@104.245.37.164:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%A8%F0%9F%87%A6Canada%F0%9F%94%86
+vless://f4fea8bb-d0dd-45c3-b685-24152bc2ebe9@45.58.37.11:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%A8%F0%9F%87%A6Canada%F0%9F%94%86
 vless://f4fea8bb-d0dd-45c3-b685-24152bc2ebe9@45.33.27.34:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B3%F0%9F%87%B1Netherland%20%202025-05-05%C3%A7enli
 vless://f4fea8bb-d0dd-45c3-b685-24152bc2ebe9@45.33.101.182:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%A9%F0%9F%87%AAGerman
-vless://f4fea8bb-d0dd-45c3-b685-24152bc2ebe9@139.177.200.187:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%BA%F0%9F%87%B2America
+vless://f4fea8bb-d0dd-45c3-b685-24152bc2ebe9@45.56.77.6:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%BA%F0%9F%87%B2America
 vless://f4fea8bb-d0dd-45c3-b685-24152bc2ebe9@app.mbks.io:443?security=tls&type=ws&headerType=&path=&host=u24.userrtm.nebuloa.sbs&sni=app.mbks.io&fp=chrome&alpn=http%2F1.1#%F0%9F%87%B3%F0%9F%87%B1Google%20LLC
 vless://f4fea8bb-d0dd-45c3-b685-24152bc2ebe9@94.131.11.254:443?security=tls&type=ws&headerType=&path=&host=vipgerman.lubruno.sbs&sni=vipgerman.lubruno.sbs&fp=chrome&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AAGerman%F0%9F%94%85%287%29%20%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5
 vless://f4fea8bb-d0dd-45c3-b685-24152bc2ebe9@77.91.72.82:443?security=tls&type=ws&headerType=&path=&host=vip2german.lubruno.sbs&sni=vip2german.lubruno.sbs&fp=chrome&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AAGerman%F0%9F%94%862
