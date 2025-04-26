@@ -1,0 +1,6 @@
+vless://d378ca5c-5306-4b14-ab67-ac518a286b9a@185.73.39.195:24?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%AC%F0%9F%87%A7England%20%28igravoy%29%F0%9F%8E%AE
+vless://d378ca5c-5306-4b14-ab67-ac518a286b9a@94.232.244.195:443?security=tls&type=ws&headerType=&path=&host=mxnedirland.mayami.sbs&sni=mxnedirland.mayami.sbs&fp=chrome&alpn=http%2F1.1#%F0%9F%87%B3%F0%9F%87%B1%20ws%20%F0%9F%9A%80
+vless://d378ca5c-5306-4b14-ab67-ac518a286b9a@95.164.35.193:443?security=tls&type=ws&headerType=&path=&host=mxgerman.mayami.sbs&sni=mxgerman.mayami.sbs&fp=chrome&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AAws%20%F0%9F%9A%80
+vless://d378ca5c-5306-4b14-ab67-ac518a286b9a@95.164.35.193:443?security=tls&type=ws&headerType=&path=&host=mxsingapur.mayami.sbs&sni=mxsingapur.mayami.sbs&fp=chrome&alpn=http%2F1.1#%F0%9F%87%B8%F0%9F%87%ACws%20
+vless://d378ca5c-5306-4b14-ab67-ac518a286b9a@95.164.86.116:443?security=tls&type=ws&headerType=&path=&host=mxawstrya.mayami.sbs&sni=mxawstrya.mayami.sbs&fp=chrome&alpn=http%2F1.1#Ws%F0%9F%87%A6%F0%9F%87%BA%20
+vless://d378ca5c-5306-4b14-ab67-ac518a286b9a@95.164.86.57:443?security=tls&type=ws&headerType=&path=&host=mxrussiya.mayami.sbs&sni=mxrussiya.mayami.sbs&fp=chrome&alpn=http%2F1.1#%F0%9F%87%B7%F0%9F%87%BAws%20
