@@ -1,4 +1,1 @@
-vless://fa51f5a9-6a1c-40f3-9d9e-5d2dd3dc79cd@95.164.35.193:443?security=tls&type=ws&headerType=&path=&host=nedir.mayami.sbs&sni=nedir.mayami.sbs&fp=chrome&alpn=http%2F1.1#%F0%9F%9A%80VIP%F0%9F%87%B3%F0%9F%87%B1
-vless://fa51f5a9-6a1c-40f3-9d9e-5d2dd3dc79cd@95.164.35.193:443?security=tls&type=ws&headerType=&path=&host=allasingapur.mayami.sbs&sni=allasingapur.mayami.sbs&fp=chrome&alpn=http%2F1.1#%F0%9F%9A%80VIP%F0%9F%87%B8%F0%9F%87%AC
-vless://fa51f5a9-6a1c-40f3-9d9e-5d2dd3dc79cd@95.164.11.242:443?security=tls&type=ws&headerType=&path=&host=allasgerman.mayami.sbs&sni=allasgerman.mayami.sbs&fp=chrome&alpn=http%2F1.1#%F0%9F%9A%80VIP%F0%9F%87%A9%F0%9F%87%AA
-vless://fa51f5a9-6a1c-40f3-9d9e-5d2dd3dc79cd@95.164.11.242:443?security=tls&type=ws&headerType=&path=&host=allasrus.mayami.sbs&sni=allasrus.mayami.sbs&fp=chrome&alpn=http%2F1.1#%F0%9F%87%B7%F0%9F%87%BARussia%20site%3A%20www.userrtm.us%20%E2%9C%85%EF%B8%8F
+Error occurred: 404 Client Error: Not Found for url: https://allas.fjafdgd.sbs:2053/sub/YmhDYmRWLDE3NDU2MDgzNTE9h5JpWCEmE 🚨
