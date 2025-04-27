@@ -1,8 +1,8 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHenUxSm8xU1VHckQxUWxXNFZvY1Nn@202.49.176.230:24#%F0%9F%87%B7%F0%9F%87%BARussia%20gaming%F0%9F%8E%AE%20shadow
-vless://679227a0-725a-495e-aff9-1b45a30d1118@45.33.1.49:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B8%F0%9F%87%ACSingapur%F0%9F%94%850%20B
+vless://679227a0-725a-495e-aff9-1b45a30d1118@45.33.1.49:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B8%F0%9F%87%ACSingapur%F0%9F%94%85954.77%20MB
 vless://679227a0-725a-495e-aff9-1b45a30d1118@213.171.7.251:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B7%F0%9F%87%BARUSSIYA%20GAMING%20PUBG%F0%9F%8F%81
 vless://679227a0-725a-495e-aff9-1b45a30d1118@45.58.37.11:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%A8%F0%9F%87%A6Canada%F0%9F%94%86
-vless://679227a0-725a-495e-aff9-1b45a30d1118@45.33.1.196:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B3%F0%9F%87%B1Netherland%20%202025-04-27%C3%A7enli
+vless://679227a0-725a-495e-aff9-1b45a30d1118@45.33.1.196:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B3%F0%9F%87%B1Netherland%20%202025-05-03%C3%A7enli
 vless://679227a0-725a-495e-aff9-1b45a30d1118@45.33.101.182:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%A9%F0%9F%87%AAGerman
 vless://679227a0-725a-495e-aff9-1b45a30d1118@45.33.1.184:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%BA%F0%9F%87%B2America
 vless://679227a0-725a-495e-aff9-1b45a30d1118@app.mbks.io:443?security=tls&type=ws&headerType=&path=&host=u24.userrtm.nebuloa.sbs&sni=app.mbks.io&fp=chrome&alpn=http%2F1.1#%F0%9F%87%B3%F0%9F%87%B1Google%20LLC
