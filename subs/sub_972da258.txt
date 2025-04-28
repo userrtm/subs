@@ -1,12 +1,12 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozb1pSbzJDQW1xUzhpLTdGbTlxY0hR@202.49.176.230:24#%F0%9F%87%B7%F0%9F%87%BARussia%20gaming%F0%9F%8E%AE%20shadow
-vless://bf40f68c-9a69-438a-8dd7-78ac218ebce1@45.33.1.49:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B8%F0%9F%87%ACSingapur%F0%9F%94%851.5%20GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozb1pSbzJDQW1xUzhpLTdGbTlxY0hR@188.225.57.233:24#%F0%9F%87%B7%F0%9F%87%BARussia%20gaming%F0%9F%8E%AE%20shadow
+vless://bf40f68c-9a69-438a-8dd7-78ac218ebce1@45.33.1.49:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B8%F0%9F%87%ACSingapur%F0%9F%94%851.52%20GB
 vless://bf40f68c-9a69-438a-8dd7-78ac218ebce1@213.171.7.251:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B7%F0%9F%87%BARUSSIYA%20GAMING%20PUBG%F0%9F%8F%81
-vless://bf40f68c-9a69-438a-8dd7-78ac218ebce1@45.58.37.11:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%A8%F0%9F%87%A6Canada%F0%9F%94%86
+vless://bf40f68c-9a69-438a-8dd7-78ac218ebce1@45.58.37.252:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%A8%F0%9F%87%A6Canada%F0%9F%94%86
 vless://bf40f68c-9a69-438a-8dd7-78ac218ebce1@45.33.1.196:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B3%F0%9F%87%B1Netherland%20%20%E2%88%9E%C3%A7enli
 vless://bf40f68c-9a69-438a-8dd7-78ac218ebce1@45.33.101.182:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%A9%F0%9F%87%AAGerman
-vless://bf40f68c-9a69-438a-8dd7-78ac218ebce1@45.33.1.184:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%BA%F0%9F%87%B2America
+vless://bf40f68c-9a69-438a-8dd7-78ac218ebce1@45.56.66.44:18?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%BA%F0%9F%87%B2America
 vless://bf40f68c-9a69-438a-8dd7-78ac218ebce1@app.mbks.io:443?security=tls&type=ws&headerType=&path=&host=u24.userrtm.nebuloa.sbs&sni=app.mbks.io&fp=chrome&alpn=http%2F1.1#%F0%9F%87%B3%F0%9F%87%B1Google%20LLC
-vless://bf40f68c-9a69-438a-8dd7-78ac218ebce1@94.131.11.254:443?security=tls&type=ws&headerType=&path=&host=vipgerman.lubruno.sbs&sni=vipgerman.lubruno.sbs&fp=chrome&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AAGerman%F0%9F%94%85%288%29%20%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5
+vless://bf40f68c-9a69-438a-8dd7-78ac218ebce1@94.131.11.254:443?security=tls&type=ws&headerType=&path=&host=vipgerman.lubruno.sbs&sni=vipgerman.lubruno.sbs&fp=chrome&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AAGerman%F0%9F%94%85%289%29%20%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5
 vless://bf40f68c-9a69-438a-8dd7-78ac218ebce1@77.91.72.82:443?security=tls&type=ws&headerType=&path=&host=vip2german.lubruno.sbs&sni=vip2german.lubruno.sbs&fp=chrome&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AAGerman%F0%9F%94%862
 vless://bf40f68c-9a69-438a-8dd7-78ac218ebce1@95.164.86.57:443?security=tls&type=ws&headerType=&path=&host=vipnedir.lubruno.sbs&sni=vipnedir.lubruno.sbs&fp=chrome&alpn=http%2F1.1#%F0%9F%87%B3%F0%9F%87%B1Netherland%20UserrTM
 vless://bf40f68c-9a69-438a-8dd7-78ac218ebce1@95.164.17.80:443?security=tls&type=ws&headerType=&path=&host=rusvip.lubruno.sbs&sni=rusvip.lubruno.sbs&fp=chrome&alpn=http%2F1.1&fragment=3%2C1%2Ctlshello&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BARussiya%20Bez%20reklam%20YouTube%F0%9F%94%85
